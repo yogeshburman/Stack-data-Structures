@@ -1,3 +1,4 @@
+// stack using linklist
 class StackClass{
   
   public static class Node {
