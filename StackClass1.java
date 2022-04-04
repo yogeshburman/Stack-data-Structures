@@ -1,4 +1,4 @@
-// stack using linklist
+// stack using ArrayList
 
 import java.util.*;
 
